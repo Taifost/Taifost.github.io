@@ -63,13 +63,14 @@
 <h2 id="绑定域名"><a href="#绑定域名" class="headerlink" title="绑定域名"></a>绑定域名</h2><p>如果我们有自己的域名，想要解析到我们 刚刚创建的网站，需要添加两条记录</p>
 <ul>
 <li>一条CNAME记录，记录值为’用户名.github.io’，主机记录www</li>
-<li>一条A记录，记录值为ping博客地址的IP地址，主机记录@<br><img  
+<li>一条A记录，记录值为ping博客地址的IP地址，主机记录@</li>
+</ul>
+<p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://raw.githubusercontent.com/Taifost/image-repository/master/Hexo%E5%8D%9A%E5%AE%A2/Snipaste_2021-04-05_18-41-24.1mccnob7t0sg.png"
                       alt="Snipaste_2021-04-05_18-41-24"
-                ></li>
-</ul>
+                ></p>
 <p><img  
                      lazyload
                      src="/images/loading.svg"
