@@ -96,7 +96,7 @@
 <ul>
 <li>在hexoblog目录下找到_config.yml，用编辑器打开，在最下面找到</li>
 </ul>
- <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: &#39;&#39;</span><br><span class="line">   </span><br><span class="line">   #将其设置为如下，注意每个冒号后面有一个空格</span><br><span class="line">  </span><br><span class="line">deploy:</span><br><span class="line"> type: git</span><br><span class="line"> repo: https:&#x2F;&#x2F;github.com&#x2F;Taifost&#x2F;Taifost.github.io.git		#你的GitHub仓库地址</span><br><span class="line"> branch: master</span><br></pre></td></tr></table></figure>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: &#39;&#39;</span><br><span class="line">   </span><br><span class="line">   #将其设置为如下，注意每个冒号后面有一个空格</span><br><span class="line">  </span><br><span class="line">deploy:</span><br><span class="line"> type: git</span><br><span class="line"> repo: https:&#x2F;&#x2F;github.com&#x2F;Taitres&#x2F;Taitres.github.io.git		#你的GitHub仓库地址</span><br><span class="line"> branch: master</span><br></pre></td></tr></table></figure>
 
 <ul>
 <li><p>命令行运行</p>
@@ -117,21 +117,21 @@
 <p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://raw.githubusercontent.com/Taifost/image-repository/master/Hexo%E5%8D%9A%E5%AE%A2/Snipaste_2021-04-05_18-41-24.1mccnob7t0sg.png"
-                      alt="Snipaste_2021-04-05_18-41-24"
+                     data-src="https://cdn.jsdelivr.net/gh/Taitres/image-repository@master/Hexo%E5%8D%9A%E5%AE%A2/2021-05-08_42.2oaxlvep6js0.png"
+                      alt="2021-05-08_42"
                 ></p>
 <p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://raw.githubusercontent.com/Taifost/image-repository/master/Hexo%E5%8D%9A%E5%AE%A2/Snipaste_2021-04-02_22-04-39.28fclk9asudc.png"
-                      alt="Snipaste_2021-04-02_22-04-39"
+                     data-src="https://cdn.jsdelivr.net/gh/Taitres/image-repository@master/Hexo%E5%8D%9A%E5%AE%A2/2021-05-08_46.6oc59tna0gc0.png"
+                      alt="2021-05-08_46"
                 ></p>
 <p>在你的博客文件\source中新建CNAME记事本，不要有后缀，内容输入域名即可</p>
 <p>进入github博客仓库，在setting-&gt;options的最下面的github pages中输入自己域名并保存<br><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://raw.githubusercontent.com/Taifost/image-repository/master/Hexo%E5%8D%9A%E5%AE%A2/Snipaste_2021-04-05_18-49-19.5eidr4y1z280.png"
-                      alt="Snipaste_2021-04-05_18-49-19"
+                     data-src="https://cdn.jsdelivr.net/gh/Taitres/image-repository@master/Hexo%E5%8D%9A%E5%AE%A2/2021-05-08_49.1pxjb6eongn4.png"
+                      alt="2021-05-08_49"
                 ></p>
 <p>现在就可以用自己的域名访问刚刚建立的网站了</p>
 ]]></content>
