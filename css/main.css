@@ -348,7 +348,7 @@ img[lazyload] {
   --body-bg-color: #DDDDDD;
   --board-bg-color: #ededef;
   --text-color: #000000;
-  --sec-text-color: #d4d4d4;
+  --sec-text-color: #41627c;
   --post-text-color: #2c3e50;
   --post-heading-color: #000000;
   --post-link-color: #0366d6;
@@ -370,7 +370,7 @@ img[lazyload] {
     --post-heading-color: #c4c6c9;
     --post-link-color: #1589e9;
     --link-hover-color: #d57306;
-    --link-hover-bg-color: #ffffff;
+    --link-hover-bg-color: #031025;
     --navbar-bg-color: #015f5a;
     --navbar-text-color: #d0d0d0;
   }
@@ -468,7 +468,7 @@ img[lazyload] {
   --post-heading-color: #c4c6c9;
   --post-link-color: #1589e9;
   --link-hover-color: #d57306;
-  --link-hover-bg-color: #ffffff;
+  --link-hover-bg-color: #031025;
   --navbar-bg-color: #015f5a;
   --navbar-text-color: #d0d0d0;
 }
