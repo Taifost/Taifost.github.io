@@ -72,7 +72,7 @@
 <p>现在就可以用自己的域名访问刚刚建立的网站了</p>
 ]]></content>
       <categories>
-        <category>学习记录</category>
+        <category>有趣的</category>
       </categories>
       <tags>
         <tag>博客</tag>
@@ -125,19 +125,17 @@
 <p> <strong>EOF</strong> ：End Of File的缩写，通常在文本的最后存在此字符表示资料结束，普遍地说，它是ASCII码中的替换字符（Control-Z，代码26），所以上述代码正常输入完毕后，换行输入 Ctrl+Z ，再输入Enter结束循环。</p>
 ]]></content>
       <categories>
-        <category>刷题</category>
+        <category>学习笔记</category>
       </categories>
       <tags>
-        <tag>要点记录</tag>
+        <tag>C</tag>
+        <tag>C++</tag>
       </tags>
   </entry>
   <entry>
     <title>C++基础入门</title>
     <url>/2021/04/06/c++%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>笔记摘抄自黑马程序员C++教程</strong></p>
-</blockquote>
-<h2 id="1-C-初识"><a href="#1-C-初识" class="headerlink" title="1 C++初识"></a>1 C++初识</h2><h3 id="1-1-第一个C-程序"><a href="#1-1-第一个C-程序" class="headerlink" title="1.1  第一个C++程序"></a>1.1  第一个C++程序</h3><p>略</p>
+    <content><![CDATA[<h2 id="1-C-初识"><a href="#1-C-初识" class="headerlink" title="1 C++初识"></a>1 C++初识</h2><h3 id="1-1-第一个C-程序"><a href="#1-1-第一个C-程序" class="headerlink" title="1.1  第一个C++程序"></a>1.1  第一个C++程序</h3><p>略</p>
 <h3 id="1-2-注释"><a href="#1-2-注释" class="headerlink" title="1.2 注释"></a>1.2 注释</h3><p><strong>作用</strong>：在代码中加一些说明和解释，方便自己或其他程序员程序员阅读代码</p>
 <p><strong>两种格式</strong></p>
 <ol>
